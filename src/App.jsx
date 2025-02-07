@@ -64,7 +64,7 @@ function App(){
 
     const [text,setText]=useState("Chennai")
 
-    let api_key="b2b8e6c1e32a6ad77379ca3ea73df981"
+    let api_key="Enter Your Key"
 
     const [icon,setIcon]=useState(clearIcon)
     const [temp,setTemp]=useState(0)
